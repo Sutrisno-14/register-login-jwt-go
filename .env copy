@@ -1,0 +1,6 @@
+DB_USER=   //name your root db
+DB_PASS=   //password user root
+DB_HOST=localhost
+DB_NAME=   //name of database
+
+JWT_SECRET=onsirtsecret
